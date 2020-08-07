@@ -2,6 +2,6 @@
 
 # Experience it with below link
 
-https://weforvizag--bharatchandra1.repl.co
+https://git.heroku.com/weforvizag-static.git
 
 ### To test the backend of the project download it and run it on localhost.

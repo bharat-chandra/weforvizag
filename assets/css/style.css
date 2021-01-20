@@ -55,9 +55,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-/*--------------------------------------------------------------
-# Preloader
---------------------------------------------------------------*/
 #preloader {
   position: fixed;
   top: 0;
@@ -124,14 +121,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 12px 0;
 }
 
-#header .logo {
-  font-size: 32px;
-  margin: 0;
-  padding: 0;
-  line-height: 0;
-  font-weight: 700;
-  letter-spacing: 2px;
-}
+
 
 #header .logo a {
   color: #fff;
@@ -166,6 +156,13 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   white-space: nowrap;
   padding: 10px 12px;
+}
+#hero h1{
+    letter-spacing: 9px
+}
+
+#hero h2{
+    letter-spacing: 2px
 }
 
 .nav-menu a {

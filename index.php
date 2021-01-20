@@ -5,14 +5,10 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Dewi Bootstrap Template - Index</title>
+  <title>we for vizag</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
-    
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
+ 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -31,21 +27,16 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-  <!-- =======================================================
-  * Template Name: Dewi - v2.1.0
-  * Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  
 </head>
 
 <body>
 <div class="">
-  <!-- ======= Header ======= -->
+    <!-- ======= Header ======= --> 
   <header id="header" class="fixed-top ">
     <div class="container-fluid d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a class="navbar-brand" href="index.php">We For Vizag</a></h1>
+        <a class="logo" href="index.php"><img class="img-thumbnail" src="assets/img/cropped-logo1-5-300x112.png"></a>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.php" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -86,7 +77,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container" data-aos="fade-up" data-aos-delay="150">
-      <h1>Plan. Launch. Grow.</h1>
+      <h1>WE  FOR  VIZAG</h1>
       <h2>NEW BEGINNINGS ENDLESS POSSIBILITIES</h2>
       <div class="d-flex">
         <a href="#about" class="button scrollto"><span>GET STARTED</span></a>
@@ -142,26 +133,26 @@
           </div>
         </div>
         <div class="row">
-
+            <p><h4 class="container-fluid" style="margin-bottom: 50px">Are you a student? What else do you do other than your college work and the usual classes? You attend workshops, online classes, or go through some material right? But what if i tell you the analysis behind the workshops you have been attending?</h4></p>
           <div class="col-lg-6 video-box align-self-baseline" data-aos="zoom-in" data-aos-delay="100">
-            <img src="https://www.weforvizag.com/images/123456.jpeg" class="img-fluid" alt="">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox  mb-4" data-vbtype="video" data-autoplay="true"></a>
+              <img src="assets/img/wfv-logo.jpeg" class="img-fluid" alt="">
+            <a href="#" class="venobox  mb-4" data-vbtype="video" data-autoplay="true"></a>
           </div>
 
           <div class="col-lg-6 pt-3 pt-lg-0 content">
-            <h3>Who we are ??</h3>
-              <p><i class="bx bx-check-double"></i>First step to success</p>
-            <h4><p><b>Setting Goals is the first step in turning the invisible to visible.</b></p></h4><br>
+              <h3>According to the research done by the 'We For Vizag team, only 40% of the amount you pay for a workshop is actually needed for organizing it. Rest all 60% goes to the company that organized the workshop.</h3><br>
+              <p><i class=""></i>We For Vizag team consists mostly of students who also attend these kinds of workshops and thought why can’t we reduce the costs of the workshops so that a little less to no money goes to the company and the student’s burden is reduced up to 60%. </p><br>
+            <h4><p><b>A team with a real dedication to getting students what they deserve for every penny they spend.</b></p></h4><br>
             <ul>
-              <li><i class="bx bx-check-double"></i>We have taken note of the void created by the absence of a central event management services for technical and non technical events, And Yeah, After much thought, We bring to you We for Vizag, A one stop destination for all event related services. We are there for you! Join us, Grow with us, Develop with us and Succeed with us.</li>
+              <li><i class=""></i>So That’s how We For Vizag got started on 8th June 2019. It may have been a rocky road in the beginning and the team went through a lot of hardships and did a lot of preparation before their first workshop, but after the first workshop it all seemed worth it and they were ready to do this for all of eternity. </li>
               
-              <li><i class="bx bx-check-double"></i>We For Vizag is a current team of people working towards, making learning more efficient in the core and is aspiring to create more opportunities for students and it is a better platform for all streams of professional skills.</li>
+              <li><i class=""></i>Setting goals is the first step in turning the invisible into the visible. </li>
             </ul>
             
           </div>
 
         </div>
-            <div class="container-fluid row" style="padding-top: 20px" data-aos="fade-up">
+          <!--  <div class="container-fluid row" style="padding-top: 20px" data-aos="fade-up">
                 <b><h4>Are you a student? What else do you do other than your college work and the usual classes? You attend workshops, online classes, or go through some material right? But what if i tell you the analysis behind the workshops you have been attending?</h4></b>
                 <div class="col-sm-4" style="overflow: scroll;padding-top:20px;background-color: royalblue;color:white" >
                     <b>So here we go!</b><br>
@@ -174,7 +165,7 @@ According to the research done by the “We For Vizag” team, only 40% of the a
                     <b>How we excute!</b><br>
 So that’s how “We For Vizag” started on june 8th, 2019. It may have been a rocky road in the beginning and the team went through a lot of hardships and did a lot of preparation before their first workshop , but after the first workshop it all seemed worth it and they were ready to do this for all eternity. We are a team with a real dedication to getting students what they deserve for every penny they spend.
                 </div>
-          </div>
+          </div> -->
       </div>
     </section><!-- End About Section -->
 
@@ -598,75 +589,96 @@ So that’s how “We For Vizag” started on june 8th, 2019. It may have been a
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/appdev.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-            <a href=""> <h4>#1</h4></a>
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+            <a href=""> <h4>MOBILE APP DEVELOPMENT WORKSHOP</h4></a>
+                <a href="assets/img/portfolio/app" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/teamtheorigin.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>#2</h4>
+              <h4>TEAM THE ORIGIN</h4>
                 <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/cybersec.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>#3</h4>
+              <h4>CYBER SECURITY AND ETHICAL HACKING WORKSHOP</h4>
                 <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/culturalAuditions.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>#4</h4>
+              <h4>CULTURAL AUDITIONS TO THE_ORIGIN</h4>
                 <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/introToOrigin.jg.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>#5</h4>
+              <h4>INTRO TO THE ORIGIN</h4>
                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/meetUpOnAI.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>#6</h4>
+              <h4>MEET UP ON ARTIFICIAL INTELLIGENCE</h4>
                 <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/INTERNET OF THINGS WORKSHOP.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>#7</h4>
+              <h4>INTERNET OF THINGS WORKSHOP</h4>
                 <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/LawManagement.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>#8</h4>
+              <h4>SESSION ON LAW MANAGEMENT</h4>
                 <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/ENTREPRENUERSHIP.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>#9</h4>
+              <h4>SESSION ON INTREPRENUERSHIP</h4>
                 <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
             </div>
+          </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <img src="assets/img/portfolio/E-KART & GO-KART WORKSHOP.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                    <h4>E-KART &amp; GO-KART WORKSHOP</h4>
+                    <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+          </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <img src="assets/img/portfolio/womenEmpowerment.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>SESSION ON WOMEN EMPOWERMENT</h4>
+                    <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+          </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <img src="assets/img/portfolio/flashMob.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>FLASHMOB TO THE_ORIGIN</h4>
+                    <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
           </div>
           </div>
       </div>
